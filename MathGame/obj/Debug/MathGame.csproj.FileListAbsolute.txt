@@ -1,0 +1,58 @@
+F:\MathGame\MathGame\bin\Debug\MathGame.exe.config
+F:\MathGame\MathGame\bin\Debug\MathGame.exe
+F:\MathGame\MathGame\bin\Debug\MathGame.pdb
+F:\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+F:\MathGame\MathGame\obj\Debug\MainWindow.g.cs
+F:\MathGame\MathGame\obj\Debug\App.g.cs
+F:\MathGame\MathGame\obj\Debug\MathGame_MarkupCompile.cache
+F:\MathGame\MathGame\obj\Debug\MathGame_MarkupCompile.lref
+F:\MathGame\MathGame\obj\Debug\MainWindow.baml
+F:\MathGame\MathGame\obj\Debug\MathGame.g.resources
+F:\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+F:\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+F:\MathGame\MathGame\obj\Debug\MathGame.exe
+F:\MathGame\MathGame\obj\Debug\MathGame.pdb
+D:\MathGame\MathGame\bin\Debug\MathGame.exe.config
+D:\MathGame\MathGame\obj\Debug\MathGame.exe
+D:\MathGame\MathGame\obj\Debug\MathGame.pdb
+D:\MathGame\MathGame\bin\Debug\MathGame.exe
+D:\MathGame\MathGame\bin\Debug\MathGame.pdb
+D:\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+D:\MathGame\MathGame\obj\Debug\MainWindow.g.cs
+D:\MathGame\MathGame\obj\Debug\App.g.cs
+D:\MathGame\MathGame\obj\Debug\MathGame_MarkupCompile.cache
+D:\MathGame\MathGame\obj\Debug\MathGame_MarkupCompile.lref
+D:\MathGame\MathGame\obj\Debug\MainWindow.baml
+D:\MathGame\MathGame\obj\Debug\MathGame.g.resources
+D:\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+D:\MathGame\MathGame\obj\Debug\MathGame.Resources.Resource1.resources
+D:\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\MathGame\MathGame\bin\Debug\MathGame.exe.config
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\MathGame.pdb
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\App.g.cs
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\MathGame_MarkupCompile.cache
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\MathGame_MarkupCompile.lref
+C:\Users\acer\Documents\MathGame\MathGame\bin\Debug\MathGame.exe
+C:\Users\acer\Documents\MathGame\MathGame\bin\Debug\MathGame.pdb
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\MainWindow.baml
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\MathGame.g.resources
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Users\acer\Documents\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+f:\Учебная практика\MathGame\MathGame\bin\Debug\MathGame.exe.config
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MathGame.exe
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MathGame.pdb
+f:\Учебная практика\MathGame\MathGame\bin\Debug\MathGame.exe
+f:\Учебная практика\MathGame\MathGame\bin\Debug\MathGame.pdb
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MainWindow.g.cs
+f:\Учебная практика\MathGame\MathGame\obj\Debug\App.g.cs
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MathGame_Content.g.cs
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MathGame_MarkupCompile.cache
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MathGame_MarkupCompile.lref
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MainWindow.baml
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MathGame.g.resources
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+f:\Учебная практика\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
